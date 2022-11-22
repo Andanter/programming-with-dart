@@ -27,11 +27,12 @@ void main() {
 
 
 //Lists datatype
- List w = new List(3); 
+ /*List w = new List(3); 
     w[0] = 'Ankunda'; 
     w[1] = 'Andante'; 
     w[2] = 'Rutainama'; 
     
     print(w); 
-    print(w[0]);  
+    print(w[0]); 
+    */ 
 }
