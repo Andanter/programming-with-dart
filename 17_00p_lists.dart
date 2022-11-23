@@ -1,6 +1,6 @@
 int main() {
   Product sugar = new Product();
-  List<Product> products = {};
+  List<Product> products = [];
 
   sugar.id = 1;
   sugar.name = "Sugar";
@@ -54,7 +54,7 @@ int main() {
   return 0;
 }
 
-//a method is a function that is inside a class
+
 
 void productDisplay(Product pro) {
   print("\n===========================");
